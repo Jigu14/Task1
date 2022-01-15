@@ -1,10 +1,11 @@
 from json import loads, dumps
 import logging
 
-logging.basicConfig(filename='app.log', filemode='w',level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
+logging.basicConfig(filename='./app.log', filemode='w',level=logging.DEBUG, format='%(asctime)s | %(name)s | %(levelname)s | %(message)s')
 logger = logging.getLogger()
 
 try:
+    # open input file
     with open("./test.json") as json_file:
         data = loads(json_file.read())
         logger.info("Open test.json file.")

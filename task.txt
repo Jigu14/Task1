@@ -1,0 +1,11 @@
+ 1. Take input file as test.json
+ 2. Output file as output.json
+ 3. In input file wherever there is "+type" change it to "+size@5+type"
+ 4. Use recursion. It's compulsory
+
+Notes:
+As a response we are expecting a GitHub repo with source files and README.md file containing the steps to run your project.
+
+We will consider the commits done during a particular time duration, you need to push the code at least in 3 different commits
+
+Task Duration: 3 hours

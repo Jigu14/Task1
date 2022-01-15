@@ -1,0 +1,179 @@
+{
+  "block-v1:test+101+2014_T1+type@course+block@course": {
+    "display_name": "Test",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@course+block@course",
+    "id": "block-v1:test+101+2014_T1+type@course+block@course",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@course+block@course",
+    "type": "course",
+    "children": [
+      "block-v1:test+101+2014_T1+type@chapter+block@cd702a4916ce401aab60f3c3d5f212e0"
+    ]
+  },
+  "block-v1:test+101+2014_T1+type@problem+block@6df6093e5aed4287beba73de646a8fab": {
+    "display_name": "Dropdown",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@problem+block@6df6093e5aed4287beba73de646a8fab",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@problem+block@6df6093e5aed4287beba73de646a8fab",
+    "type": "problem",
+    "id": "block-v1:test+101+2014_T1+type@problem+block@6df6093e5aed4287beba73de646a8fab"
+  },
+  "block-v1:test+101+2014_T1+type@html+block@3fe70922297e4fd999517d6c4ae9052a": {
+    "display_name": "Raw HTML",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@html+block@3fe70922297e4fd999517d6c4ae9052a",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@html+block@3fe70922297e4fd999517d6c4ae9052a",
+    "type": "html",
+    "id": "block-v1:test+101+2014_T1+type@html+block@3fe70922297e4fd999517d6c4ae9052a"
+  },
+  "block-v1:test+101+2014_T1+type@html+block@8a4c0c09410f4512afd43199d6b3603a": {
+    "display_name": "Text",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@html+block@8a4c0c09410f4512afd43199d6b3603a",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@html+block@8a4c0c09410f4512afd43199d6b3603a",
+    "type": "html",
+    "id": "block-v1:test+101+2014_T1+type@html+block@8a4c0c09410f4512afd43199d6b3603a"
+  },
+  "block-v1:test+101+2014_T1+type@problem+block@52dd1f622e8e4e5582f3d459116f5145": {
+    "display_name": "Multiple Choice",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@7629a70459ba4bb49fddd15a38736bbe",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@problem+block@52dd1f622e8e4e5582f3d459116f5145",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@problem+block@52dd1f622e8e4e5582f3d459116f5145",
+    "type": "problem",
+    "id": "block-v1:test+101+2014_T1+type@problem+block@52dd1f622e8e4e5582f3d459116f5145"
+  },
+  "block-v1:test+101+2014_T1+type@problem+block@99cdba267cd04190943c5d6679d126b3": {
+    "display_name": "Multiple Choice",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@7629a70459ba4bb49fddd15a38736bbe",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@problem+block@99cdba267cd04190943c5d6679d126b3",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@problem+block@99cdba267cd04190943c5d6679d126b3",
+    "type": "problem",
+    "id": "block-v1:test+101+2014_T1+type@problem+block@99cdba267cd04190943c5d6679d126b3"
+  },
+  "block-v1:test+101+2014_T1+type@discussion+block@eb0e031a5a3d4fd8b182310a4ea7e870": {
+    "display_name": "Discussion",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@discussion+block@eb0e031a5a3d4fd8b182310a4ea7e870",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@discussion+block@eb0e031a5a3d4fd8b182310a4ea7e870",
+    "type": "discussion",
+    "id": "block-v1:test+101+2014_T1+type@discussion+block@eb0e031a5a3d4fd8b182310a4ea7e870"
+  },
+  "block-v1:test+101+2014_T1+type@sequential+block@6d4aec0ce1334d86b113263d24e1d1ac": {
+    "display_name": "Subsection",
+    "parent": "block-v1:test+101+2014_T1+type@chapter+block@cd702a4916ce401aab60f3c3d5f212e0",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@sequential+block@6d4aec0ce1334d86b113263d24e1d1ac",
+    "id": "block-v1:test+101+2014_T1+type@sequential+block@6d4aec0ce1334d86b113263d24e1d1ac",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@sequential+block@6d4aec0ce1334d86b113263d24e1d1ac",
+    "type": "sequential",
+    "children": [
+      "block-v1:test+101+2014_T1+type@vertical+block@f3fc3f0d85ea4b529192be3f70ab4d80"
+    ]
+  },
+  "block-v1:test+101+2014_T1+type@sequential+block@e5d9013de2244a0c973a15d083a6b84b": {
+    "display_name": "Subsection",
+    "parent": "block-v1:test+101+2014_T1+type@chapter+block@cd702a4916ce401aab60f3c3d5f212e0",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@sequential+block@e5d9013de2244a0c973a15d083a6b84b",
+    "id": "block-v1:test+101+2014_T1+type@sequential+block@e5d9013de2244a0c973a15d083a6b84b",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@sequential+block@e5d9013de2244a0c973a15d083a6b84b",
+    "type": "sequential",
+    "children": [
+      "block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b"
+    ]
+  },
+  "block-v1:test+101+2014_T1+type@chapter+block@cd702a4916ce401aab60f3c3d5f212e0": {
+    "display_name": "Section",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@chapter+block@cd702a4916ce401aab60f3c3d5f212e0",
+    "id": "block-v1:test+101+2014_T1+type@chapter+block@cd702a4916ce401aab60f3c3d5f212e0",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@chapter+block@cd702a4916ce401aab60f3c3d5f212e0",
+    "type": "chapter",
+    "children": [
+      "block-v1:test+101+2014_T1+type@sequential+block@e5d9013de2244a0c973a15d083a6b84b",
+      "block-v1:test+101+2014_T1+type@sequential+block@6d4aec0ce1334d86b113263d24e1d1ac",
+      "block-v1:test+101+2014_T1+type@sequential+block@264cb12540c7478b8d70ffff40e4d40e"
+    ]
+  },
+  "block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b": {
+    "display_name": "Unit",
+    "parent": "block-v1:test+101+2014_T1+type@sequential+block@e5d9013de2244a0c973a15d083a6b84b",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b",
+    "id": "block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@vertical+block@9194a768f4c74eaf943695d12a896d3b",
+    "type": "vertical",
+    "children": [
+      "block-v1:test+101+2014_T1+type@html+block@8a4c0c09410f4512afd43199d6b3603a",
+      "block-v1:test+101+2014_T1+type@html+block@3fe70922297e4fd999517d6c4ae9052a",
+      "block-v1:test+101+2014_T1+type@discussion+block@eb0e031a5a3d4fd8b182310a4ea7e870",
+      "block-v1:test+101+2014_T1+type@problem+block@6df6093e5aed4287beba73de646a8fab"
+    ]
+  },
+  "block-v1:test+101+2014_T1+type@vertical+block@f3fc3f0d85ea4b529192be3f70ab4d80": {
+    "display_name": "Unit",
+    "parent": "block-v1:test+101+2014_T1+type@sequential+block@6d4aec0ce1334d86b113263d24e1d1ac",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@vertical+block@f3fc3f0d85ea4b529192be3f70ab4d80",
+    "id": "block-v1:test+101+2014_T1+type@vertical+block@f3fc3f0d85ea4b529192be3f70ab4d80",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@vertical+block@f3fc3f0d85ea4b529192be3f70ab4d80",
+    "type": "vertical",
+    "children": [
+      "block-v1:test+101+2014_T1+type@html+block@0c8c52b6855a401eab1957356ffffab6"
+    ]
+  },
+  "block-v1:test+101+2014_T1+type@vertical+block@7629a70459ba4bb49fddd15a38736bbe": {
+    "display_name": "Unit",
+    "parent": "block-v1:test+101+2014_T1+type@sequential+block@264cb12540c7478b8d70ffff40e4d40e",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@vertical+block@7629a70459ba4bb49fddd15a38736bbe",
+    "id": "block-v1:test+101+2014_T1+type@vertical+block@7629a70459ba4bb49fddd15a38736bbe",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@vertical+block@7629a70459ba4bb49fddd15a38736bbe",
+    "type": "vertical",
+    "children": [
+      "block-v1:test+101+2014_T1+type@problem+block@52dd1f622e8e4e5582f3d459116f5145",
+      "block-v1:test+101+2014_T1+type@problem+block@56460f5660a047898d071bb7435fb7e1",
+      "block-v1:test+101+2014_T1+type@problem+block@99cdba267cd04190943c5d6679d126b3"
+    ]
+  },
+  "block-v1:test+101+2014_T1+type@problem+block@56460f5660a047898d071bb7435fb7e1": {
+    "display_name": "Dropdown",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@7629a70459ba4bb49fddd15a38736bbe",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@problem+block@56460f5660a047898d071bb7435fb7e1",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@problem+block@56460f5660a047898d071bb7435fb7e1",
+    "type": "problem",
+    "id": "block-v1:test+101+2014_T1+type@problem+block@56460f5660a047898d071bb7435fb7e1"
+  },
+  "block-v1:test+101+2014_T1+type@vertical+block@c4deff835b0344d5b0dac4d4426c7c9c": {
+    "display_name": "Unit",
+    "parent": "block-v1:test+101+2014_T1+type@sequential+block@264cb12540c7478b8d70ffff40e4d40e",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@vertical+block@c4deff835b0344d5b0dac4d4426c7c9c",
+    "id": "block-v1:test+101+2014_T1+type@vertical+block@c4deff835b0344d5b0dac4d4426c7c9c",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@vertical+block@c4deff835b0344d5b0dac4d4426c7c9c",
+    "type": "vertical",
+    "children": [
+      "block-v1:test+101+2014_T1+type@problem+block@1400cea1ed0c4b1ba2d9467933ad5967"
+    ]
+  },
+  "block-v1:test+101+2014_T1+type@html+block@0c8c52b6855a401eab1957356ffffab6": {
+    "display_name": "Text",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@f3fc3f0d85ea4b529192be3f70ab4d80",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@html+block@0c8c52b6855a401eab1957356ffffab6",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@html+block@0c8c52b6855a401eab1957356ffffab6",
+    "type": "html",
+    "id": "block-v1:test+101+2014_T1+type@html+block@0c8c52b6855a401eab1957356ffffab6"
+  },
+  "block-v1:test+101+2014_T1+type@problem+block@1400cea1ed0c4b1ba2d9467933ad5967": {
+    "display_name": "Dropdown",
+    "parent": "block-v1:test+101+2014_T1+type@vertical+block@c4deff835b0344d5b0dac4d4426c7c9c",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@problem+block@1400cea1ed0c4b1ba2d9467933ad5967",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@problem+block@1400cea1ed0c4b1ba2d9467933ad5967",
+    "type": "problem",
+    "id": "block-v1:test+101+2014_T1+type@problem+block@1400cea1ed0c4b1ba2d9467933ad5967"
+  },
+  "block-v1:test+101+2014_T1+type@sequential+block@264cb12540c7478b8d70ffff40e4d40e": {
+    "display_name": "Subsection",
+    "parent": "block-v1:test+101+2014_T1+type@chapter+block@cd702a4916ce401aab60f3c3d5f212e0",
+    "student_view_url": "http://localhost:8000/xblock/block-v1:test+101+2014_T1+type@sequential+block@264cb12540c7478b8d70ffff40e4d40e",
+    "id": "block-v1:test+101+2014_T1+type@sequential+block@264cb12540c7478b8d70ffff40e4d40e",
+    "lms_web_url": "http://localhost:8000/courses/course-v1:test+101+2014_T1/jump_to/block-v1:test+101+2014_T1+type@sequential+block@264cb12540c7478b8d70ffff40e4d40e",
+    "type": "sequential",
+    "children": [
+      "block-v1:test+101+2014_T1+type@vertical+block@7629a70459ba4bb49fddd15a38736bbe",
+      "block-v1:test+101+2014_T1+type@vertical+block@c4deff835b0344d5b0dac4d4426c7c9c"
+    ]
+  }
+}
